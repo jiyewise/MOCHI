@@ -11,3 +11,5 @@
 <br>
 
 Author's implementation of the paper MOCHI: Motion Enhancement of Collaborative Human-object Interactions (SIGGRAPH 2026). 
+
+We are currently polishing the code and will be released soon!
